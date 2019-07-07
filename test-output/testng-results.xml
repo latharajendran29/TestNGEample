@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31014" started-at="2019-07-06T06:18:44Z" finished-at="2019-07-06T06:19:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31014" started-at="2019-07-06T06:18:44Z" finished-at="2019-07-06T06:19:15Z">
+      <class name="com.testng.examples.Extendreports">
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:com.testng.examples.Extendreports@f6c48ac]" name="launchbrowser" is-config="true" duration-ms="4848" started-at="2019-07-06T06:18:39Z" finished-at="2019-07-06T06:18:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="openamazon()[pri:0, instance:com.testng.examples.Extendreports@f6c48ac]" name="openamazon" duration-ms="22275" started-at="2019-07-06T06:18:44Z" finished-at="2019-07-06T06:19:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openamazon -->
+        <test-method status="PASS" signature="openfacebook()[pri:0, instance:com.testng.examples.Extendreports@f6c48ac]" name="openfacebook" duration-ms="6726" started-at="2019-07-06T06:19:07Z" finished-at="2019-07-06T06:19:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openfacebook -->
+        <test-method status="PASS" signature="opengoogle()[pri:0, instance:com.testng.examples.Extendreports@f6c48ac]" name="opengoogle" duration-ms="1931" started-at="2019-07-06T06:19:13Z" finished-at="2019-07-06T06:19:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opengoogle -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.testng.examples.Extendreports@f6c48ac]" name="closebrowser" is-config="true" duration-ms="1650" started-at="2019-07-06T06:19:15Z" finished-at="2019-07-06T06:19:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.testng.examples.Extendreports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
